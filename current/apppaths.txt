@@ -1,0 +1,2 @@
+myprogram=C:/path/to/file.exe
+myprogram2=C:/path/to/file2.exe

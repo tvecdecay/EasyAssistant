@@ -1,0 +1,4 @@
+google=google.com
+youtube=youtube.com
+twitter=twitter.com
+wikipedia=wikipedia.org
