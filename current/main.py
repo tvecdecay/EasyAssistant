@@ -11,7 +11,7 @@ def listen():
             recognized_text = MListener.recognize_google(text, language="") # Remove language argument if you want your assistant in English.
             print(recognized_text)
         except:
-            print("hata")
+            print("")
     try:
         format = allDict[recognized_text.lower()]
         format.start()
