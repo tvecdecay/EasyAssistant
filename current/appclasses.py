@@ -13,7 +13,7 @@ class website:
     
     @name.setter
     def name(self, sname):
-        self.__name = sname
+        self.__name = sname.lower()
     
 
     def check(self):
@@ -39,7 +39,7 @@ class program:
 
     @path.setter
     def path(self, spath):
-        self.__path = spath
+        self.__path = spath.lower()
 
     def start(self):
         subprocess.call([self.path])
