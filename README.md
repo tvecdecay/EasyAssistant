@@ -38,4 +38,4 @@ This format is only used for opening websites, as opening programs do not work t
 ### Using Your Assistant
 To use your assistant, all you have to do is launch main.py and then start talking to the microphone. Have fun!
 ## License
-[GNU GPL2](https://choosealicense.com/licenses/gpl-2.0/)
+[GNU GPLv2](https://choosealicense.com/licenses/gpl-2.0/)
